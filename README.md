@@ -1,10 +1,10 @@
 <a name="top"></a>
 
 # E5-DVSCOPC  
-**Rendu de STEPHANIS Antonio**  
+**Rendu de DE STEPHANIS Antonio**  
 
 <p align="center">
-  <h3 align="center">Projet E5-VIRTDC : Stripe + Infisical</h3>
+  <h3 align="center">Projet E5-DVSCOPC : Stripe + Infisical</h3>
 </p>
 
 ---
