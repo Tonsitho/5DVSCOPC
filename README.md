@@ -223,6 +223,18 @@ helm upgrade --install infisical infisical-helm-charts/infisical-standalone --va
 
 ➡️ Accédez à l'interface web d’Infisical en réalisant un **port-forwarding** depuis l'IP Minikube.
 
+##  Aperçu Infisical
+
+![Infisical Web Site](images/Infisical.png)
+
+## Création d'une Machine Identity
+
+![Infisical Web Site](images/Infisical1.png)
+
+## Ajout du projet à la machine
+
+![Infisical Web Site](images/Infisical2.png)
+
 ### 4. Déploiement de l'opérateur Infisical
 
 ```bash
@@ -247,12 +259,6 @@ kubectl apply -f infisical-secret-crd.yaml
 ```bash
 kubectl apply -f stripe-app.yaml
 ```
-
----
-
-##  Aperçu Infisical
-
-![Infisical Web Site](Infisical.png)
 
 ---
 
